@@ -31,8 +31,8 @@
     </style>
 </head>
 <body>
-<div class="headingText"> <h1>Do you want to <a href="http://localhost:8080/php/mentorController/addmentor">Mentor</a> </h1>
-        <h1 class="headingText">or to be <a href="http://localhost:8080/php/menteeController/addmentee">Mentor</a> </h1>
+<div class="headingText"> <h1>Do you want to <a href="https://php-no-framework.herokuapp.com/mentorController/addmentor">Mentor</a> </h1>
+        <h1 class="headingText">or to be <a href="https://php-no-framework.herokuapp.com/menteeController/addmentee">Mentor</a> </h1>
 </div>
 
    
